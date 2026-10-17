@@ -2,7 +2,7 @@
 
 An interactive Excel dashboard analysing Q4 2025 transaction data for a US-based e-commerce retailer, to assess the effectiveness of the Q4 turnaround strategy, identify key revenue and profit drivers, and provide management with actionable insights to support data-driven decision-making.
 
-![Dashboard preview](dashboard.png)
+![Dashboard preview](dashboard.PNG)
 
 ---
 
